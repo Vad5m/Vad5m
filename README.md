@@ -1,6 +1,4 @@
 <h1 align="center">Hi</h1>
 
-<p align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vad5m&show_icons=true)
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Open+Source+Lover">
 
-</p>
