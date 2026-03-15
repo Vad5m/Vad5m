@@ -3,7 +3,4 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vad5m/vad5m/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vad5m/vad5m/output/pacman-contribution-graph.svg">
-</picture>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vad5m&show_icons=true&theme=radical)
