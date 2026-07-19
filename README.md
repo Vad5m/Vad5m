@@ -4,18 +4,20 @@
 
 <pre>
             ⢿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣁⣀⡠⡀⠄⠉⠙⠛⠿⢿⣿⣿⡿⠙⠁⠄⠄⣠ 
-            ⠄⠈⠛⠛⡿⠛⠛⠉⠄⠄⣠⣾⣿⣿⣿⣿⣿⣧⣄⢀⡀⣀⠈⠥⣤⢀⠄⠄⣼⣿  
-            ⣄⠄⠄⠄⣇⣀⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣅⠄⢈⡬⢠⣾⣿⠟  Hi! My real name is Vadim
-            ⣿⣷⡄⠰⣾⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣧⡘⠃⠘⣿⣟⠄  
-            ⣉⠻⠃⠈⠟⠉⠁⣤⡙⢻⣿⣿⣿⣷⣿⣿⡟⠁⣴⠂⠄⠄⠈⣿⣷⡄⠄⠈⢓⣛
-            ⣿⣤⣤⠸⡆⠄⠄⠈⣳⣾⣿⠿⠿⠿⢿⣿⣷⣤⣯⠄⠄⠄⢀⣿⣿⣿⠄⠐⣿⣿
-            ⣿⣿⣿⡇⠨⣀⣀⣴⣿⣿⠁⠄⠄⠄⠄⣿⣿⣿⣿⣷⣦⣶⣾⣿⣿⣿⣴⡆⢹⣿
-            ⣿⣿⣿⣷⠄⠉⠛⢿⣿⣿⡀⠄⠄⠄⣷⣿⣿⣿⣿⡿⠇⠄⣰⣿⣿⣿⠚⢣⣿⣿
-            ⠉⠻⢿⣿⠄⣀⣤⡄⠙⠛⠛⠒⠄⠒⠙⠛⠛⠛⠉⢀⣴⣾⣿⣿⣿⠇⠄⢀⠙⢿
+            ⠄⠈⠛⠛⡿⠛⠛⠉⠄⠄⣠⣾⣿⣿⣿⣿⣿⣧⣄⢀⡀⣀⠈⠥⣤⢀⠄⠄⣼⣿  Hi! My real name is Vadim
+            ⣄⠄⠄⠄⣇⣀⣤⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣅⠄⢈⡬⢠⣾⣿⠟  You can contact me via telegram @TenshiBunny
+            ⣿⣷⡄⠰⣾⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣧⡘⠃⠘⣿⣟⠄  I mostly work on my own projects
+            ⣉⠻⠃⠈⠟⠉⠁⣤⡙⢻⣿⣿⣿⣷⣿⣿⡟⠁⣴⠂⠄⠄⠈⣿⣷⡄⠄⠈⢓⣛  But I'm ready to work on projects for money.
+            ⣿⣤⣤⠸⡆⠄⠄⠈⣳⣾⣿⠿⠿⠿⢿⣿⣷⣤⣯⠄⠄⠄⢀⣿⣿⣿⠄⠐⣿⣿  I can develop websites, web applications, android apps
+            ⣿⣿⣿⡇⠨⣀⣀⣴⣿⣿⠁⠄⠄⠄⠄⣿⣿⣿⣿⣷⣦⣶⣾⣿⣿⣿⣴⡆⢹⣿  PC apps and much more...
+            ⣿⣿⣿⣷⠄⠉⠛⢿⣿⣿⡀⠄⠄⠄⣷⣿⣿⣿⣿⡿⠇⠄⣰⣿⣿⣿⠚⢣⣿⣿  
+            ⠉⠻⢿⣿⠄⣀⣤⡄⠙⠛⠛⠒⠄⠒⠙⠛⠛⠛⠉⢀⣴⣾⣿⣿⣿⠇⠄⢀⠙⢿  I would be grateful for the follow and stars
             ⠄⣶⡶⠄⠄⢻⣿⣷⣄⣶⣶⣶⣤⣤⡶⣶⠾⣿⣶⣿⣿⣿⣿⣿⡃⣀⣴⣿⡷⢸
 </pre>
 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vad5m&theme=radical)
+
 
 <pre>
  ⢀⢀⡴⣶⣿⡄⠀⠀⠀⠀⠀⠀⠀⡤⠞⠉⢳⠀⠀⠀⠀
@@ -27,4 +29,3 @@
 ⠀⠀⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠘⠋⠉⢙⡆⠀⠀
 ⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⡤⠖⠋ 
 </pre>
-
