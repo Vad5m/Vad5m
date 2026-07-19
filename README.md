@@ -15,9 +15,7 @@
             ⠄⣶⡶⠄⠄⢻⣿⣷⣄⣶⣶⣶⣤⣤⡶⣶⠾⣿⣶⣿⣿⣿⣿⣿⡃⣀⣴⣿⡷⢸
 </pre>
 
-
-![](https://ghchart.rshah.org/Vad5m)
-
+![](https://github.com/users/Vad5m/contributions)
 
 <pre>
  ⢀⢀⡴⣶⣿⡄⠀⠀⠀⠀⠀⠀⠀⡤⠞⠉⢳⠀⠀⠀⠀
