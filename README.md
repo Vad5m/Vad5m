@@ -28,5 +28,3 @@
             ⠀⠀⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠘⠋⠉⢙⡆⠀⠀
             ⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⡤⠖⠋ 
 </pre>
-
-![](https://github.com/Vad5m/Vad5m/blob/main/helloworldwhite.gif)
