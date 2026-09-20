@@ -3,9 +3,6 @@
 </p>
 
 
-![](https://github.com/Vad5m/Vad5m/blob/main/lv_0_20260920200154.gif)
-
-
 <pre>
  
              ⢀⢀⡴⣶⣿⡄⠀⠀⠀⠀⠀⠀⠀⡤⠞⠉⢳⠀⠀⠀⠀ Hi! My real name is Vadim
