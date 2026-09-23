@@ -10,7 +10,7 @@
             ⣿⠀⠒⠘⣠⡾⢀⡴⠋⠉⠀⠀⠀⠉⠋⠁⢀⣠⠶⠃   I mostly work on my own projects
             ⠈⠙⣏⣿⢧⢿⡏⠀⠀⢠⠄⠀⠀⠀⠀⠀⢻⡀⠀⠀   But I'm ready to work on projects for money.
             ⠀⠀⠉⠘⣟⣾⡄⠀⠀⠀⠈⠓⠘⠃⣀⠀⢈⡇     I can develop websites, PC apps, android apps,
-             ⠀⠀⠀⠀⢿⠉⠛⠦⠀⠀⠀⠀⠀⠀⠀⣠⡞⠁    Minecraft mods and much more...
+             ⠀⠀⠀⠀⢿⠉⠛⠦⠀⠀⠀⠀ ⠀⣠⡞⠁      Minecraft mods and much more...
               ⠀⠀⠀⠘⢧⡀⠀⠀⠀⠀⠀⠀⠘⠋⠉⢙⡆⠀⠀ 
             ⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⡤⠖⠋      I would be grateful for the follow and stars
 
