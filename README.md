@@ -19,11 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://github.com/Vad5m)|
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://github.com/Vad5m)
 
-<p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=github_dark&animation=load&name=vad5m)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=github_dark&animation=load)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=github_dark&animation=load)
-</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=github_dark&animation=load&name=vad5m)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=github_dark&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=github_dark&animation=load)
+
 
 
 <pre>
