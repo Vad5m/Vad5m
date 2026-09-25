@@ -78,7 +78,3 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=vad5m&color=ff69b4)
 
 
-<a href="https://github.com/vad5m/">
-    <img src="https://komarev.com/ghpvc/?username=vad5m&style=for-the-badge">
-</a>
-
