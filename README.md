@@ -20,7 +20,9 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://github.com/Vad5m)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vad5m&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=chartreuse_dark&animation=load&name=vad5m)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=chartreuse_dark&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=chartreuse_dark&animation=load)
 
 
 <pre>
