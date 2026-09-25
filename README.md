@@ -19,10 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://github.com/Vad5m)|
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://github.com/Vad5m)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=github_dark&animation=load&name=vad5m)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=github_dark&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=github_dark&animation=load)
+<p align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=github_dark&animation=load&name=vad5m)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=github_dark&animation=load)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=github_dark&animation=load)
+</p>
 
 
 <pre>
@@ -76,7 +77,14 @@
 </pre>⠀⠀⠀⠀⠀⠀⠀⠀
 ![Visitor Count](https://komarev.com/ghpvc/?username=vad5m&color=ff69b4)
 
+## Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vad5m/vad5m/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/vad5m/vad5m/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
 
 
 
