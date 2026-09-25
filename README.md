@@ -14,9 +14,9 @@
             ⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⡤⠖⠋       I would be grateful for the follow and stars
 
 </pre>
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://github.com/Vad5m)
-[![My Skills](https://skillicons.dev/icons?i=py,docker,qt)](https://github.com/Vad5m)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://github.com/Vad5m)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://github.com/Vad5m)|
+[![My Skills](https://skillicons.dev/icons?i=py,docker,qt)](https://github.com/Vad5m)|
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://github.com/Vad5m)|
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://github.com/Vad5m)
 
 
