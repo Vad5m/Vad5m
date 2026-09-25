@@ -16,6 +16,10 @@
 
 </pre>
 
+
+ ![Visitor Count](https://komarev.com/ghpvc/?username=vad5m&color=blue)
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vad5m&theme=radical)
 
 
