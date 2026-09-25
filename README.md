@@ -23,7 +23,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=github_dark&animation=load&name=vad5m)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=github_dark&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=github_dark&animation=load)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vad5m&theme=github_dark&animation=load&utcOffset=0)
 
 
 <pre>
