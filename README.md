@@ -77,14 +77,6 @@
 </pre>⠀⠀⠀⠀⠀⠀⠀⠀
 ![Visitor Count](https://komarev.com/ghpvc/?username=vad5m&color=ff69b4)
 
-## Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vad5m/vad5m/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/vad5m/vad5m/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
 
 
 
