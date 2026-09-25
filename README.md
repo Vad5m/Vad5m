@@ -16,6 +16,7 @@
             ⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⡤⠖⠋       I would be grateful for the follow and stars
 
 </pre>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,linux,debian,py,docker,flask,qt,ubuntu,kotlin)](https://skillicons.dev)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vad5m&theme=radical)
