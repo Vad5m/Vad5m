@@ -3,6 +3,8 @@
   <img src="https://raw.githubusercontent.com/Vad5m/Vad5m/refs/heads/main/im.gif" />
 </p> <!-- <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=58A6FF&vCenter=true&width=500&lines=I'm+a+Frontend+Developer;I'm+a+Backend+Developer" /> -->
 
+###
+
 <pre>
  
              ⢀⢀⡴⣶⣿⡄⠀⠀⠀⠀⠀⠀⠀⡤⠞⠉⢳⠀⠀⠀       ⠀ Hi! My real name is Vadim
@@ -15,17 +17,21 @@
             ⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀⠀⠀⡤⠖⠋       I would be grateful for the follow and stars
 
 </pre>
+
+###
+
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu)](https://github.com/Vad5m)|
 [![My Skills](https://skillicons.dev/icons?i=py,docker,qt)](https://github.com/Vad5m)|
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://github.com/Vad5m)|
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin)](https://github.com/Vad5m)
 
+###
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vad5m&theme=github_dark&animation=load&name=vad5m)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vad5m&theme=github_dark&animation=load)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vad5m&theme=github_dark&animation=load)
 
-
+###
 
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
